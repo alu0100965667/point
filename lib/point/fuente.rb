@@ -10,6 +10,7 @@
 # Author::    Coromoto Leon  (mailto:cleon@x.y)
 # Copyright:: Cretive Commons
 # License::   Distributes under the same terms as Ruby
+#
 
 module Point
 
